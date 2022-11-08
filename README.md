@@ -15,7 +15,7 @@ Ecrire un programme qui lit un caractère au clavier entre '0' et '9', le compar
 <br>plus grand
 <br>Donner un caractère : q
 <br>Au revoir
-<br>
+<p float="left" align="center">
 <img src="https://user-images.githubusercontent.com/100727442/200649903-715a1eee-0ac9-4a22-bf2a-f9ba3f05dbd9.png">
-
+</p>
 
